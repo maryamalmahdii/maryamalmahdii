@@ -35,7 +35,7 @@ Discover vulnerabilities ethically 🫣,
 - 👩🏻‍🏫 Python Judge – Youth Public Authority  
 - 🏁 5th Place – Kuwait University Robotics Competition
 - 💻 22nd Place - Kuwait National Cybersecurity CTF 2024
-- 🥼 EC-Council Courses Completed: CND, CSCT, CSA  
+- 📚 EC-Council Courses Completed: CND, CCT, CSA  
 - 🚀 Active member of: GDG Kuwait, WiCSME, KFAS AstroLab, KUWAITSAT-1
 
 ---
